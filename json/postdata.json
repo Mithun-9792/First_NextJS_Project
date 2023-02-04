@@ -1,0 +1,29 @@
+{
+  "blog": [
+    {
+      "title": "Airplanes",
+      "post": "An airplane or aeroplane (informally plane) is a fixed-wing aircraft that is propelled forward by thrust from a jet engine, propeller, or rocket engine. Airplanes come in a variety of sizes, shapes, and wing configurations. The broad spectrum of uses for airplanes includes recreation, transportation of goods and people, military, and research. Worldwide, commercial aviation transports more than four billion passengers annually on airliners[1] and transports more than 200 billion tonne-kilometers[2] of cargo annually, which is less than 1% of the world's cargo movement.[3] Most airplanes are flown by a pilot on board the aircraft, but some are designed to be remotely or computer-controlled such as drones.",
+      "author": "Mithun Pal"
+    },
+    {
+      "title": "MS Dhoni",
+      "post": "Mahendra Singh Dhoni, commonly known as MS Dhoni, is a former Indian cricketer and captain of the Indian national cricket team. He was born on July 7, 1981 in Ranchi, Jharkhand, India. Dhoni is considered one of the greatest cricketers in Indian history, known for his exceptional leadership skills and calm demeanor under pressure. He made his debut for the Indian cricket team in December 2004, and went on to become the captain of the team in 2007. Under his captaincy, India won the 2007 ICC World Twenty20, the 2010 and 2016 Asia Cups, and reached the final of the 2011 ICC Cricket World Cup. Dhoni retired from international cricket in August 2020, and is widely regarded as one of the greatest wicket-keepers in the history of the sport. He has numerous records and accolades to his name, including being the only captain to win all major ICC trophies.",
+      "author": "Mithun Pal"
+    },
+    {
+      "title": "AI is dangerous for us or not?",
+      "post": "The potential danger of AI depends on how it is used and developed. AI has the potential to greatly benefit society by automating tasks, improving decision-making, and solving complex problems. However, if AI is developed and used without proper oversight, ethical considerations, and safety measures, it could lead to unintended consequences that harm individuals or society as a whole. For example, if AI systems are used to make decisions that impact people's lives, such as in hiring, lending, or criminal justice, there is a risk of systemic bias and discrimination if the algorithms are not properly designed and tested. Additionally, if AI systems are developed for military or security purposes, there are concerns about the ethical implications of autonomous weapons and the potential for AI to be used for mass surveillance and control. Overall, AI has the potential to be both beneficial and dangerous, and it is important to approach its development and use with caution and responsibility.",
+      "author": "Mithun Pal"
+    },
+    {
+      "title": "What is Discord?",
+      "post": "Discord is a popular communication platform primarily used for online gaming communities. It offers features such as text and voice chat, file sharing, and live streaming. Discord was originally developed for gamers to communicate with each other while playing games, but it has since evolved into a broader platform for people to connect and communicate about various topics and interests. Discord offers both individual and group chat options, as well as the ability to create and join servers, which are essentially chat rooms organized around a specific topic or community. Discord also has a large selection of third-party apps and plugins that can add additional functionality to the platform. Discord has become popular due to its user-friendly interface, customizable features, and the ability to easily connect with friends and communities. It is available on various platforms including web, desktop, and mobile.",
+      "author": "Mithun Pal"
+    },
+    {
+      "title": "JavaScript V/S TypeScript",
+      "post": "JavaScript and TypeScript are both programming languages used for web development, but they have some important differences: Type System: TypeScript has a statically-typed type system, meaning that variables must be declared with a specific type, while JavaScript is dynamically typed and variables can hold values of any type. Syntax: TypeScript is a superset of JavaScript and has a more strict syntax, which can catch errors at compile time, whereas JavaScript syntax is more flexible and errors can only be caught at runtime. Interoperability: JavaScript code can be run directly in any browser, while TypeScript code needs to be compiled to JavaScript before it can be run. Tooling Support: TypeScript has strong tooling support, including code editor integrations and a large library of definitions for popular JavaScript libraries, making it easier to develop large-scale applications. Community: JavaScript has a larger and more established community, while TypeScript is relatively new and has a smaller community. In summary, TypeScript is a strongly-typed, object-oriented language that builds on top of JavaScript, while JavaScript is a loosely-typed, dynamic language. Both languages can be used to build complex web applications, but TypeScript offers more support for large-scale applications and can help catch errors early in the development process.",
+      "author": "Mithun Pal"
+    }
+  ]
+}
